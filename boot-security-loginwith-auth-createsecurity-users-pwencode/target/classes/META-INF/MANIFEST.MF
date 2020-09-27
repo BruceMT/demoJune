@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-form-handling
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MWB20
+Implementation-Vendor-Id: com.demo
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/boot-securit
+ y-jdbc-auth/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
